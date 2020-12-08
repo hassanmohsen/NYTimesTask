@@ -1,0 +1,34 @@
+PODS:
+  - Alamofire (5.4.0)
+  - Bond (7.8.1):
+    - Differ (~> 1.4)
+    - ReactiveKit (~> 3.14)
+  - Differ (1.4.5)
+  - Moya (14.0.0):
+    - Moya/Core (= 14.0.0)
+  - Moya/Core (14.0.0):
+    - Alamofire (~> 5.0)
+  - ReactiveKit (3.17.4)
+
+DEPENDENCIES:
+  - Bond (~> 7.8.1)
+  - Moya (~> 14.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Bond
+    - Differ
+    - Moya
+    - ReactiveKit
+
+SPEC CHECKSUMS:
+  Alamofire: 3b6a534a3df22db367e4dedeeca73d1ddfcf0e2f
+  Bond: 87075c7f20f37ea3e73dc7057fce839787bf46eb
+  Differ: 3b6bd78e2b20cc795d9a86f7641d087524e4273e
+  Moya: 5b45dacb75adb009f97fde91c204c1e565d31916
+  ReactiveKit: f9f9e079efa39312c597bf1508ef4810d111ce76
+
+PODFILE CHECKSUM: 94197baa436f8a4a065c6a7d7df9e6c7439642c6
+
+COCOAPODS: 1.10.0
